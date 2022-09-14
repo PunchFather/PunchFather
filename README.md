@@ -23,6 +23,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunchFather&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemember&layout=compact)](https://github.com/leemember/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PunchFather&layout=compact)](https://github.com/PunchFather/github-readme-stats)
 
 </div>
