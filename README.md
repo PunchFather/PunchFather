@@ -2,7 +2,8 @@
 
 ***
 
-<div>
+<div align="center">
+Front-end Stack💻
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-blue.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-skyblue.svg?&style=flat-square&logo=React&logoColor=white"/>
